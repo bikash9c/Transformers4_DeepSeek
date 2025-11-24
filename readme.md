@@ -83,7 +83,7 @@ Parameter count: ~208M (all trainable).
 
 ---
 
-## Final Loss and Training Snapshot
+## Final Loss and Training Snapshot (Complete logs are in logs.txt file)
 
 | Step      | Loss    | LR         | Time/step | Tokens/sec |
 |-----------|---------|------------|-----------|------------|
